@@ -1,3 +1,16 @@
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=licceeee&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licceeee&hide_border=true&layout=compact&langs_count=10" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
 
@@ -55,21 +68,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=licceeee&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licceeee&hide_border=true&layout=compact&langs_count=10" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
 
 
 
