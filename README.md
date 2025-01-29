@@ -1,14 +1,3 @@
-## Github Stats  
-<table>
-  <tr>
-    <td align="top" width="58%">
-      <img src="https://github-readme-stats.vercel.app/api?username=licceeee&hide_border=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
-    </td>
-    <td align="top" width="42%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licceeee&hide_border=true&layout=compact&langs_count=10" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table> 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=licceeee&hide_border=false)<br/>
 
